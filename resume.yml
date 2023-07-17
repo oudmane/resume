@@ -105,3 +105,9 @@ languages:
     fluency: Full professional proficiency
   - language: French
     fluency: Limited working proficiency
+
+publications:
+  - name: Multiple databases in Big Data projects
+    publisher: DEV Community
+    releaseDate: 2019-07-17
+    summary: I worked in multiple NodeJS projects that had to be connected to multiple databases and softwares at the same time. Every time I start a new project, I first need to write the code that configures clients of databases (MongoDB, ElasticSearch, Redis...), make sure it connected successfully and then move on to what I want to do.
