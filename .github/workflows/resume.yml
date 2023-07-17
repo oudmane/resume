@@ -46,7 +46,7 @@ jobs:
       - name: Convert
         id: convert
         run: |
-          export JSON=$(yq -j eval resume.yml)
+          export JSON=$(yq -j eval -I=0 resume.yml)
           echo "json=$JSON" >> "$GITHUB_OUTPUT"
           
       - uses: sergeysova/gist-write-action@v1
