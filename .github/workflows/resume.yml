@@ -54,7 +54,7 @@ jobs:
           
       - uses: sergeysova/gist-write-action@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           gist_id: b37012db47da7ec4c38d6d35ef90801b
           file_name: resume.json
