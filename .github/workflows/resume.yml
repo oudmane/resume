@@ -42,15 +42,12 @@ jobs:
 
       - name: Setup yq 
         uses: srfrnk/setup-yq@latest
-      - name: Show folks how to run YQ
-        run: |
-         yq --help
 
       - name: Convert
         id: convert
         run: |
           export JSON=$(yq -j eval resume.yml)
-          echo "::set-output name=json::$JSON"
+          echo "json=$JSON" >> "$GITHUB_OUTPUT"
           
       - uses: sergeysova/gist-write-action@v1
         env:
