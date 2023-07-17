@@ -46,7 +46,7 @@ jobs:
       - name: Convert
         id: convert
         run: |
-          export JSON=$(yq -o=json eval resume.yml)
+          export JSON=$(yq -j eval resume.yml)
           echo "::set-output name=json::$JSON"
           
       - uses: sergeysova/gist-write-action@v1
