@@ -46,8 +46,10 @@ jobs:
       - name: Convert
         id: convert
         run: |
-          export JSON=$(yq -j eval -I=0 resume.yml)
-          echo "json=$JSON" >> "$GITHUB_OUTPUT"
+          export JSON=$(yq -j eval resume.yml)
+          echo "JSON<<EOF" >> $GITHUB_ENV
+          echo "$JSON" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
           
       - uses: sergeysova/gist-write-action@v1
         env:
@@ -55,4 +57,4 @@ jobs:
         with:
           gist_id: b37012db47da7ec4c38d6d35ef90801b
           file_name: resume.json
-          content: ${{steps.convert.outputs.json}}
+          content: ${{env.JSON}}
