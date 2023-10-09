@@ -39,13 +39,13 @@ work:
     location: Meknes, Morocco
     locationType: Remote
     employmentType: Contract
-    summary: Co-founded CRAWLO and led the creation of a big data-based MVP, validated market fit, scaled the product based on user feedback, and assembled and managed a high-performing development team. Designed a solution to increase e-commerce sales by monitoring various factors, showcasing a commitment to innovative problem-solving and technical excellence.
-    highlights:
-      - Spearheaded the creation of an MVP (Minimum Viable Product) for a big data-based software, gathering early user feedback and validating the product concept in the e-commerce market.
-      - Leveraged client feedback and market insights to lead the technical scaling of the product, demonstrating strategic planning and execution capabilities.
-      - Assembled and led a high-performing team of developers, fostering a collaborative environment and empowering them to work on various projects successfully.
-      - Designed and implemented a big data solution that monitors internal and external factors, substantially aiding e-commerce websites in increasing their sales.
-      - Championed innovative thinking, consistently delivering unique solutions to complex challenges, demonstrating a commitment to technical excellence and innovative problem-solving.
+    # summary: Co-founded CRAWLO and led the creation of a big data-based MVP, validated market fit, scaled the product based on user feedback, and assembled and managed a high-performing development team. Designed a solution to increase e-commerce sales by monitoring various factors, showcasing a commitment to innovative problem-solving and technical excellence.
+    # highlights:
+    #   - Spearheaded the creation of an MVP (Minimum Viable Product) for a big data-based software, gathering early user feedback and validating the product concept in the e-commerce market.
+    #   - Leveraged client feedback and market insights to lead the technical scaling of the product, demonstrating strategic planning and execution capabilities.
+    #   - Assembled and led a high-performing team of developers, fostering a collaborative environment and empowering them to work on various projects successfully.
+    #   - Designed and implemented a big data solution that monitors internal and external factors, substantially aiding e-commerce websites in increasing their sales.
+    #   - Championed innovative thinking, consistently delivering unique solutions to complex challenges, demonstrating a commitment to technical excellence and innovative problem-solving.
     skills:
       - Node.js
       - MongoDB
@@ -63,12 +63,12 @@ work:
     location: Meknes, Morocco
     locationType: On-Site
     employmentType: Full-time
-    summary: Developed the backend for an e-commerce platform, learned Objective-C for iOS app development, and contributed to diverse client projects through feature implementation and bug fixes, demonstrating adaptability, skill growth, and a commitment to delivering quality solutions.
-    highlights:
-      - Successfully developed the backend infrastructure for an e-commerce marketplace, demonstrating adaptability and efficiency in handling complex project requirements.
-      - Acquired new skills in Objective-C for iOS application development, illustrating commitment to personal growth and broadening technical competencies.
-      - Delivered a new iOS application for the e-commerce platform, improving the mobile user experience and expanding the company's reach to iOS users.
-      - Contributed to various client projects, demonstrating versatility and teamwork by implementing new features and promptly addressing and resolving bugs to ensure optimal performance and customer satisfaction.
+    # summary: Developed the backend for an e-commerce platform, learned Objective-C for iOS app development, and contributed to diverse client projects through feature implementation and bug fixes, demonstrating adaptability, skill growth, and a commitment to delivering quality solutions.
+    # highlights:
+    #   - Successfully developed the backend infrastructure for an e-commerce marketplace, demonstrating adaptability and efficiency in handling complex project requirements.
+    #   - Acquired new skills in Objective-C for iOS application development, illustrating commitment to personal growth and broadening technical competencies.
+    #   - Delivered a new iOS application for the e-commerce platform, improving the mobile user experience and expanding the company's reach to iOS users.
+    #   - Contributed to various client projects, demonstrating versatility and teamwork by implementing new features and promptly addressing and resolving bugs to ensure optimal performance and customer satisfaction.
     skills:
       - PHP
       - MySQL
@@ -82,12 +82,12 @@ work:
     location: Casablanca, Morocco
     locationType: Hybrid
     employmentType: Part-time
-    summary: Designed and developed a high-traffic video learning platform for high school students using PHP, MySQL, jQuery, and UIkit. Managed and optimized performance for daily user visits in the hundreds of thousands, while continually enhancing the platform for improved user experience and increased student engagement.
-    highlights:
-      - Led the design and development of a custom video learning platform targeting high school students, facilitating mobile and desktop accessibility for uninterrupted learning experiences.
-      - Utilized PHP, MySQL, jQuery, and UIkit to build a robust and user-friendly interface, accommodating the needs of a diverse user base.
-      - Successfully managed high-traffic volume, with the platform attracting hundreds of thousands of visitors daily, demonstrating effectiveness in performance optimization and handling high-load conditions.
-      - Continuously monitored and improved the platform, ensuring seamless video streaming and enhanced user experience, contributing to increased student engagement.
+    # summary: Designed and developed a high-traffic video learning platform for high school students. Managed and optimized performance for daily user visits in the hundreds of thousands, while continually enhancing the platform for improved user experience and increased student engagement.
+    # highlights:
+    #   - Led the design and development of a custom video learning platform targeting high school students, facilitating mobile and desktop accessibility for uninterrupted learning experiences.
+    #   - Built a robust and user-friendly interface, accommodating the needs of a diverse user base.
+    #   - Successfully managed high-traffic volume, with the platform attracting hundreds of thousands of visitors daily, demonstrating effectiveness in performance optimization and handling high-load conditions.
+    #   - Continuously monitored and improved the platform, ensuring seamless video streaming and enhanced user experience, contributing to increased student engagement.
     skills:
       - PHP
       - MySQL
