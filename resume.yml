@@ -31,6 +31,22 @@ basics:
       url: https://keybase.io/oudmane
 
 work:
+  - position: Senior Software Engineer and Architect
+    name: ReaLift
+    startDate: 2022-01
+    locationType: Remote
+    employmentType: Contract
+    # summary: 
+    skills:
+      - Node.js
+      - Web Applications
+      - JavaScript
+      - Amazon Web Services (AWS)
+      - React.js
+      - Web Crawling
+      - TypeScript
+      - AWS CloudFormation
+
   - position: Software Engineer
     name: OudyWorks
     startDate: 2016-01
