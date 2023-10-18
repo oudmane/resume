@@ -31,6 +31,11 @@ basics:
       url: https://keybase.io/oudmane
 
 work:
+  - position: Software Engineer
+    name: OudyWorks
+    startDate: 2016-01
+    summary: As a Freelancer, I worked with many companies on various projects
+
   - position: Co-Founder/Lead Software Engineer
     startDate: 2016-11
     endDate: 2019-12
@@ -39,6 +44,7 @@ work:
     location: Meknes, Morocco
     locationType: Remote
     employmentType: Contract
+    summary: I'm challenged to think out of the box, work and lead a team of developers working on various projects in a big data based software that helps e-commerce websites to increase their sales by monitoring internal and external factors.
     # summary: Co-founded CRAWLO and led the creation of a big data-based MVP, validated market fit, scaled the product based on user feedback, and assembled and managed a high-performing development team. Designed a solution to increase e-commerce sales by monitoring various factors, showcasing a commitment to innovative problem-solving and technical excellence.
     # highlights:
     #   - Spearheaded the creation of an MVP (Minimum Viable Product) for a big data-based software, gathering early user feedback and validating the product concept in the e-commerce market.
@@ -51,18 +57,19 @@ work:
       - MongoDB
       - JavaScript
       - NoSQL
-      - MySQL
       - ElasticSearch
       - Redis
       - RabbitMQ
       - TypeScript
+      - Vue.js
   - position: Software Engineer
     startDate: 2015-10
-    endDate: 2015-11
+    endDate: 2015-12
     name: AppSoft LAB
     location: Meknes, Morocco
     locationType: On-Site
     employmentType: Full-time
+    summary: I worked on building an iOS Mobile app, also in it's backend API, bug fixing and updates on other projects.
     # summary: Developed the backend for an e-commerce platform, learned Objective-C for iOS app development, and contributed to diverse client projects through feature implementation and bug fixes, demonstrating adaptability, skill growth, and a commitment to delivering quality solutions.
     # highlights:
     #   - Successfully developed the backend infrastructure for an e-commerce marketplace, demonstrating adaptability and efficiency in handling complex project requirements.
@@ -74,6 +81,12 @@ work:
       - MySQL
       - Zend framework
       - Objective-C
+      - iOS
+      - JavaScript
+      - jQuery
+      - HTML
+      - CSS
+      - Bootstrap
   - position: Software Engineer
     startDate: 2012-08
     endDate: 2014-05
@@ -82,6 +95,7 @@ work:
     location: Casablanca, Morocco
     locationType: Hybrid
     employmentType: Part-time
+    summary: I worked on building a website to stream educational videos for high school students organized by subjects and lessons.
     # summary: Designed and developed a high-traffic video learning platform for high school students. Managed and optimized performance for daily user visits in the hundreds of thousands, while continually enhancing the platform for improved user experience and increased student engagement.
     # highlights:
     #   - Led the design and development of a custom video learning platform targeting high school students, facilitating mobile and desktop accessibility for uninterrupted learning experiences.
@@ -95,6 +109,101 @@ work:
       - JavaScript
       - HTML
       - UIkit
+      - CSS
+
+projects:
+  - entity: OudyWorks
+    name: reqas.io
+    url: https://reqas.io/
+    description: A CRM and communication Gateway to integrate with apps, to manage and send SMS, Notifications and deliver messages via Messenger and WhatsApp
+    skills:
+      - Node.js
+      - MongoDB
+      - JavaScript
+      - NoSQL
+      - ElasticSearch
+      - Redis
+      - RabbitMQ
+      - TypeScript
+      - React.js
+      - Angular
+      - Facebook Messenger API
+      - WhatsApp Business API
+      - Instagram Messaging API
+      - Docker
+    
+  - entity: OudyWorks
+    name: ebotiqa
+    # url: https://ebotiqa.com
+    description: A platform for online sellers to manage customers, products and orders, linked with Facebook, Instagram and Google Shopping
+    skills:
+      - Node.js
+      - MongoDB
+      - JavaScript
+      - NoSQL
+      - ElasticSearch
+      - Redis
+      - RabbitMQ
+      - TypeScript
+      - React.js
+      - Angular
+      - Facebook Commerce API
+      - Docker
+    
+  - entity: OudyWorks
+    name: brasal
+    url: https://brasal.ma
+    # startDate: 2016-01
+    # endDate: 2020-12
+    description: We developed an E-Commerce website for Brasal Company, to sell cosmetics products. This Website is developed from scratch using OudyPlat.
+    skills:
+      - MySQL
+      - Git
+      - JavaScript
+      - PHP
+      - Custom PHP
+      - jQuery
+      - Apache HTTP Server
+      - HTML5
+      - Web Development
+      - AJAX
+      - NGINX
+      - API
+      - Node.js
+      - SQL
+
+  - name: BACDoc
+    url: https://www.bacdoc.ma/
+    description: A Social Cloud for Students (High school), this website allows users to find and share educational files (exercises, courses in different formats Images, PDF, Word, PowerPoint and Excel). This website built to be accessible via every device has a web browser (responsive). The website allows registered users to see only documents that are opportune for them after specifying their level and sector.
+    skills:
+      - MySQL
+      - Git
+      - JavaScript
+      - PHP
+      - Custom PHP
+      - jQuery
+      - Apache HTTP Server
+      - HTML5
+      - Web Development
+      - AJAX
+      - NGINX
+      - API
+      - Node.js
+      - SQL
+
+  - name: OudyPlat (My own PHP Framwork)
+    url: https://git.io/oudyplat
+    description: A flexible PHP/MySQL Framwork to build Web Sites/Applications, Apps Servers. This framework is designed to render services with performed and fast functionalities.
+    skills:
+      - PHP
+      - MySQL
+      - Framwork
+
+  - name: BAC TV
+    url: https://bactv.ma
+    # startDate: 2012-08
+    # endDate: 2012-05
+    description: a Video Platform for Educational videos for High school students
 
 languages:
   - language: Tamazight
