@@ -144,12 +144,6 @@ skills:
 - name: JavaScript
   level: ''
   keywords: []
-- name: Microsoft Office
-  level: ''
-  keywords: []
-- name: AngularJS
-  level: ''
-  keywords: []
 - name: HTML
   level: ''
   keywords: []
@@ -190,9 +184,6 @@ skills:
   level: ''
   keywords: []
 - name: Redis
-  level: ''
-  keywords: []
-- name: Objective-C
   level: ''
   keywords: []
 - name: SQL
@@ -273,7 +264,13 @@ skills:
 - name: SEO
   level: ''
   keywords: []
+- name: Objective-C
+  level: ''
+  keywords: []
 - name: jQuery
+  level: ''
+  keywords: []
+- name: AngularJS
   level: ''
   keywords: []
 languages:
