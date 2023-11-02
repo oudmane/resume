@@ -1,239 +1,372 @@
 basics:
   name: Ayoub Oudmane
-  label: Software Engineer
-  url: https://oudmane.me
-  image: https://oudmane.me/ayoub_oudmane.jpg
+  label: I'm a Software Engineer specializing in building exceptional, high-quality
+    solutions for businesses.
+  image: ''
+  email: ayoub@oudmane.me
+  phone: ''
+  url: https://www.upwork.com/freelancers/oudmane/
+  summary: |-
+    I'm just a !normal Software Engineer, I'm always curious about how things work and why it works. I've being coding since I was 15, I got my first job at 19, When I'm free, I work on side projects or learn new skills, When my brain is like: "brah, can I have a break", I watch Movies/TV Shows, or play games.
+    I'm Something of a Digital Nomad Myself.
   location:
-    city: Budapest
-    countryCode: HU
-  summary: Experienced Software Engineer with 10+ years of expertise in diverse projects, including mobile apps, websites, and big-data platforms. Passionate about continuous learning and embracing emerging technologies. Strong problem-solving skills and adaptability to new environments.
+    countryCode: US
+    address: Hungary
   profiles:
-    - network: GitHub
-      username: oudmane
-      url: https://github.com/oudmane
     - network: LinkedIn
       username: oudmane
       url: https://www.linkedin.com/in/oudmane/
     - network: Twitter
-      username: oudmane
-      url: https://twitter.com/oudmane
-    - network: DEV Community
-      username: oudmane
-      url: https://dev.to/oudmane
+      username: Oudmane
+      url: https://twitter.com/Oudmane
     - network: UpWork
       username: oudmane
       url: https://www.upwork.com/freelancers/oudmane
-    - network: Nomad List
-      username: oudmane
-      url: https://nomadlist.com/@oudmane
-    - network: Keybase
-      username: oudmane
-      url: https://keybase.io/oudmane
 
 work:
-  - position: Senior Software Engineer and Architect
-    name: ReaLift
-    startDate: 2022-01
-    locationType: Remote
-    employmentType: Contract
-    # summary: 
-    skills:
-      - Node.js
-      - Web Applications
-      - JavaScript
-      - Amazon Web Services (AWS)
-      - React.js
-      - Web Crawling
-      - TypeScript
-      - AWS CloudFormation
-
-  - position: Software Engineer
-    name: OudyWorks
-    startDate: 2016-01
-    summary: As a Freelancer, I worked with many companies on various projects
-
-  - position: Co-Founder/Lead Software Engineer
-    startDate: 2016-11
-    endDate: 2019-12
-    name: Crawlo.com Data Intelligence for Ecommerce
-    url: https://www.crawlo.com
-    location: Meknes, Morocco
-    locationType: Remote
-    employmentType: Contract
-    summary: I'm challenged to think out of the box, work and lead a team of developers working on various projects in a big data based software that helps e-commerce websites to increase their sales by monitoring internal and external factors.
-    # summary: Co-founded CRAWLO and led the creation of a big data-based MVP, validated market fit, scaled the product based on user feedback, and assembled and managed a high-performing development team. Designed a solution to increase e-commerce sales by monitoring various factors, showcasing a commitment to innovative problem-solving and technical excellence.
-    # highlights:
-    #   - Spearheaded the creation of an MVP (Minimum Viable Product) for a big data-based software, gathering early user feedback and validating the product concept in the e-commerce market.
-    #   - Leveraged client feedback and market insights to lead the technical scaling of the product, demonstrating strategic planning and execution capabilities.
-    #   - Assembled and led a high-performing team of developers, fostering a collaborative environment and empowering them to work on various projects successfully.
-    #   - Designed and implemented a big data solution that monitors internal and external factors, substantially aiding e-commerce websites in increasing their sales.
-    #   - Championed innovative thinking, consistently delivering unique solutions to complex challenges, demonstrating a commitment to technical excellence and innovative problem-solving.
-    skills:
-      - Node.js
-      - MongoDB
-      - JavaScript
-      - NoSQL
-      - ElasticSearch
-      - Redis
-      - RabbitMQ
-      - TypeScript
-      - Vue.js
-  - position: Software Engineer
-    startDate: 2015-10
-    endDate: 2015-12
-    name: AppSoft LAB
-    location: Meknes, Morocco
-    locationType: On-Site
-    employmentType: Full-time
-    summary: I worked on building an iOS Mobile app, also in it's backend API, bug fixing and updates on other projects.
-    # summary: Developed the backend for an e-commerce platform, learned Objective-C for iOS app development, and contributed to diverse client projects through feature implementation and bug fixes, demonstrating adaptability, skill growth, and a commitment to delivering quality solutions.
-    # highlights:
-    #   - Successfully developed the backend infrastructure for an e-commerce marketplace, demonstrating adaptability and efficiency in handling complex project requirements.
-    #   - Acquired new skills in Objective-C for iOS application development, illustrating commitment to personal growth and broadening technical competencies.
-    #   - Delivered a new iOS application for the e-commerce platform, improving the mobile user experience and expanding the company's reach to iOS users.
-    #   - Contributed to various client projects, demonstrating versatility and teamwork by implementing new features and promptly addressing and resolving bugs to ensure optimal performance and customer satisfaction.
-    skills:
-      - PHP
-      - MySQL
-      - Zend framework
-      - Objective-C
-      - iOS
-      - JavaScript
-      - jQuery
-      - HTML
-      - CSS
-      - Bootstrap
-  - position: Software Engineer
-    startDate: 2012-08
-    endDate: 2014-05
-    name: Smart-Educa
-    url: https://bactv.ma
-    location: Casablanca, Morocco
-    locationType: Hybrid
-    employmentType: Part-time
-    summary: I worked on building a website to stream educational videos for high school students organized by subjects and lessons.
-    # summary: Designed and developed a high-traffic video learning platform for high school students. Managed and optimized performance for daily user visits in the hundreds of thousands, while continually enhancing the platform for improved user experience and increased student engagement.
-    # highlights:
-    #   - Led the design and development of a custom video learning platform targeting high school students, facilitating mobile and desktop accessibility for uninterrupted learning experiences.
-    #   - Built a robust and user-friendly interface, accommodating the needs of a diverse user base.
-    #   - Successfully managed high-traffic volume, with the platform attracting hundreds of thousands of visitors daily, demonstrating effectiveness in performance optimization and handling high-load conditions.
-    #   - Continuously monitored and improved the platform, ensuring seamless video streaming and enhanced user experience, contributing to increased student engagement.
-    skills:
-      - PHP
-      - MySQL
-      - jQuery
-      - JavaScript
-      - HTML
-      - UIkit
-      - CSS
-
-projects:
-  - entity: OudyWorks
-    name: reqas.io
-    url: https://reqas.io/
-    description: A CRM and communication Gateway to integrate with apps, to manage and send SMS, Notifications and deliver messages via Messenger and WhatsApp
-    skills:
-      - Node.js
-      - MongoDB
-      - JavaScript
-      - NoSQL
-      - ElasticSearch
-      - Redis
-      - RabbitMQ
-      - TypeScript
-      - React.js
-      - Angular
-      - Facebook Messenger API
-      - WhatsApp Business API
-      - Instagram Messaging API
-      - Docker
-    
-  - entity: OudyWorks
-    name: ebotiqa
-    # url: https://ebotiqa.com
-    description: A platform for online sellers to manage customers, products and orders, linked with Facebook, Instagram and Google Shopping
-    skills:
-      - Node.js
-      - MongoDB
-      - JavaScript
-      - NoSQL
-      - ElasticSearch
-      - Redis
-      - RabbitMQ
-      - TypeScript
-      - React.js
-      - Angular
-      - Facebook Commerce API
-      - Docker
-    
-  - entity: OudyWorks
-    name: brasal
-    url: https://brasal.ma
-    # startDate: 2016-01
-    # endDate: 2020-12
-    description: We developed an E-Commerce website for Brasal Company, to sell cosmetics products. This Website is developed from scratch using OudyPlat.
-    skills:
-      - MySQL
-      - Git
-      - JavaScript
-      - PHP
-      - Custom PHP
-      - jQuery
-      - Apache HTTP Server
-      - HTML5
-      - Web Development
-      - AJAX
-      - NGINX
-      - API
-      - Node.js
-      - SQL
-
-  - name: BACDoc
-    url: https://www.bacdoc.ma/
-    description: A Social Cloud for Students (High school), this website allows users to find and share educational files (exercises, courses in different formats Images, PDF, Word, PowerPoint and Excel). This website built to be accessible via every device has a web browser (responsive). The website allows registered users to see only documents that are opportune for them after specifying their level and sector.
-    skills:
-      - MySQL
-      - Git
-      - JavaScript
-      - PHP
-      - Custom PHP
-      - jQuery
-      - Apache HTTP Server
-      - HTML5
-      - Web Development
-      - AJAX
-      - NGINX
-      - API
-      - Node.js
-      - SQL
-
-  - name: OudyPlat (My own PHP Framwork)
-    url: https://git.io/oudyplat
-    description: A flexible PHP/MySQL Framwork to build Web Sites/Applications, Apps Servers. This framework is designed to render services with performed and fast functionalities.
-    skills:
-      - PHP
-      - MySQL
-      - Framwork
-
-  - name: BAC TV
-    url: https://bactv.ma
-    # startDate: 2012-08
-    # endDate: 2012-05
-    description: a Video Platform for Educational videos for High school students
-
-languages:
-  - language: Tamazight
-    fluency: Native
-  - language: Arabic
-    fluency: Native
-  - language: English
-    fluency: Full professional proficiency
-  - language: French
-    fluency: Limited working proficiency
-
+- name: ReaLift
+  position: Senior Software Engineer and Architect
+  startDate: '2022-01-31'
+  highlights: []
+  summary:
+  url: https://www.linkedin.com/company/82223528
+  location:
+- name: OudyWorks
+  position: Software Engineer
+  startDate: '2016-01-31'
+  highlights: []
+  summary: |-
+    As a Freelancer, I worked with many companies on various projects:
+    - brasal cosmetics (https://brasal.ma): an online store built from scratch with custom features requested by the client.
+    - ebotiqa: a platform for online sellers to manage customers, products and orders, linked with Facebook, Instagram and Google Shopping.
+    - sQweelty: an online management platform for private schools
+    - reqas.io : a communication Gateway to integrate with apps, to manage and send SMS, Notifications and deliver messages via Messenger and WhatsApp.
+    I've also worked with various clients on UpWork where I'm a Top Rated Plus (top 3% of performers on Upwork.) with 100% Job Success
+    https://www.upwork.com/freelancers/oudmane
+  url: https://www.linkedin.com/company/10951158
+  location: Meknès Prefecture, Morocco
+- name: Crawlo.com Data Intelligence for Ecommerce
+  position: Lead Developer
+  startDate: '2016-11-30'
+  endDate: '2019-12-31'
+  highlights: []
+  summary: Working remotely, I'm challenged to think out of the box, work and lead
+    a team of developers working on various projects in a big data based software
+    that helps e-commerce websites to increase their sales by monitoring internal
+    and external factors
+  url: https://www.linkedin.com/company/11053473
+  location: Spain
+- name: AppSoft LAB
+  position: Developer
+  startDate: '2015-10-31'
+  endDate: '2015-11-30'
+  highlights: []
+  summary: I worked on a Project developed by the company, Liv360.com, my job was
+    to design and develop the iOS Mobile App for this website, I also worked on the
+    API for this Mobile App and done some bug fixing and updates to the website.
+  url: https://www.linkedin.com/company/2786173
+  location: Meknes
+- name: Smart-Educa
+  position: Web Developer
+  startDate: '2012-08-31'
+  endDate: '2014-05-31'
+  highlights: []
+  summary: |-
+    I worked on building a website to stream educational videos for high school students organized by subjects and lessons.
+    Users (Students and Teachers) were allowed to login on the website and create their profiles and ask questions and reply to each other.
+  location: Casablanca
+volunteer: []
+education:
+- institution: Specialized Institute Of Applied Technology NTIC
+  area: IT Development
+  studyType: Diploma
+  startDate: '2013-08-31'
+  endDate: '2015-07-31'
+  courses: []
+awards: []
+certificates:
+- name: Up and Running with ECMAScript 6
+  issuer: Lynda.com
+  startDate: '2016-08-31'
+  url: https://www.lynda.com/ViewCertificate/0F05541BA90845969475CB248D2CC6AB?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+- name: 'Learn Webpack: The Basics'
+  issuer: Lynda.com
+  startDate: '2016-08-31'
+  url: https://www.lynda.com/ViewCertificate/2188253C4E3748D69C8570F3F9B51F40?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+- name: 'Android Development Essential Training: Create Your First App'
+  issuer: Lynda.com
+  startDate: '2019-03-31'
+  url: http://www.lynda.com/Android-tutorials/Android-Development-Essential-Training-Create-Your-First-App/751324-2.html
+- name: Learning ECMAScript 6
+  issuer: Lynda.com
+  startDate: '2019-11-30'
+  url: http://www.lynda.com/JavaScript-tutorials/Learning-ECMAScript-6/424003-2.html
+- name: TypeScript Essential Training
+  issuer: LinkedIn
+  startDate: '2019-12-31'
+  url: https://www.linkedin.com/learning/certificates/b655d74e3ad619e14e14d623eccb5960e421c1ea13e9cdd83c6c6450e4081d9d?trk=backfilled_certificate
+- name: Test Automation Foundations
+  issuer: LinkedIn
+  startDate: '2019-12-31'
+  url: https://www.linkedin.com/learning/certificates/0070a9a1b02b3db52d9e8ca675aa382bb12796f57509aeb89141246c6fb54bc7?trk=backfilled_certificate
+- name: Selenium Essential Training
+  issuer: LinkedIn
+  startDate: '2019-12-31'
+  url: https://www.linkedin.com/learning/certificates/f4bb9a4ac0d4ce9af5655a655b0f4ace6350b621455cc90c62ddebcc9089165a?trk=backfilled_certificate
+- name: 'AWS and React: Creating Full-Stack Apps'
+  issuer: LinkedIn
+  startDate: '2022-02-28'
+  url: https://www.linkedin.com/learning/certificates/f6ba1a1fe1032a05a08f2fa76edfe27513b1494f7cc6833d1e73f07c69bcf0c5
+- name: Learning AWS CloudFormation
+  issuer: LinkedIn
+  startDate: '2022-05-31'
+  url: https://www.linkedin.com/learning/certificates/06b0c706d55fac0c8bcada467f1ea1c0dcacfd679d2381068a35c1d97231f6d8
 publications:
   - name: Multiple databases in Big Data projects
     publisher: DEV Community
     releaseDate: "2019-07-17"
     url: https://oudmane.me/blog/multiple-databases-in-bigdata-projects-52n4.html
     summary: I worked in multiple NodeJS projects that had to be connected to multiple databases and softwares at the same time. Every time I start a new project, I first need to write the code that configures clients of databases (MongoDB, ElasticSearch, Redis...), make sure it connected successfully and then move on to what I want to do.
+skills:
+- name: Facebook API
+  level: ''
+  keywords: []
+- name: Node.js
+  level: ''
+  keywords: []
+- name: GraphQL
+  level: ''
+  keywords: []
+- name: Vue.js
+  level: ''
+  keywords: []
+- name: CSS
+  level: ''
+  keywords: []
+- name: JavaScript
+  level: ''
+  keywords: []
+- name: Microsoft Office
+  level: ''
+  keywords: []
+- name: AngularJS
+  level: ''
+  keywords: []
+- name: HTML
+  level: ''
+  keywords: []
+- name: Java
+  level: ''
+  keywords: []
+- name: Mentoring
+  level: ''
+  keywords: []
+- name: Web Services
+  level: ''
+  keywords: []
+- name: Software Development
+  level: ''
+  keywords: []
+- name: Github
+  level: ''
+  keywords: []
+- name: TypeScript
+  level: ''
+  keywords: []
+- name: API
+  level: ''
+  keywords: []
+- name: Cascading Style Sheets (CSS)
+  level: ''
+  keywords: []
+- name: React.js
+  level: ''
+  keywords: []
+- name: Git
+  level: ''
+  keywords: []
+- name: Front-end Development
+  level: ''
+  keywords: []
+- name: Amazon Web Services (AWS)
+  level: ''
+  keywords: []
+- name: Redis
+  level: ''
+  keywords: []
+- name: Objective-C
+  level: ''
+  keywords: []
+- name: SQL
+  level: ''
+  keywords: []
+- name: Web Development
+  level: ''
+  keywords: []
+- name: npm
+  level: ''
+  keywords: []
+- name: Web Crawling
+  level: ''
+  keywords: []
+- name: Web Design
+  level: ''
+  keywords: []
+- name: MongoDB
+  level: ''
+  keywords: []
+- name: 'Object-Oriented Programming '
+  level: ''
+  keywords: []
+- name: NoSQL
+  level: ''
+  keywords: []
+- name: LESS
+  level: ''
+  keywords: []
+- name: RabbitMQ
+  level: ''
+  keywords: []
+- name: Full-Stack Development
+  level: ''
+  keywords: []
+- name: XML
+  level: ''
+  keywords: []
+- name: HTML5
+  level: ''
+  keywords: []
+- name: Android
+  level: ''
+  keywords: []
+- name: WebSockets
+  level: ''
+  keywords: []
+- name: MySQL
+  level: ''
+  keywords: []
+- name: Webmaster Services
+  level: ''
+  keywords: []
+- name: Webpack
+  level: ''
+  keywords: []
+- name: PHP
+  level: ''
+  keywords: []
+- name: Databases
+  level: ''
+  keywords: []
+- name: Linux
+  level: ''
+  keywords: []
+- name: Microsoft Azure
+  level: ''
+  keywords: []
+- name: ElasticSearch
+  level: ''
+  keywords: []
+- name: Web Applications
+  level: ''
+  keywords: []
+- name: AWS CloudFormation
+  level: ''
+  keywords: []
+- name: SEO
+  level: ''
+  keywords: []
+- name: jQuery
+  level: ''
+  keywords: []
+languages:
+- fluency: Native Speaker
+  language: Arabic
+- fluency: Full Professional
+  language: English
+- fluency: Limited Working
+  language: French
+- fluency: Native Speaker
+  language: Tamazight
+interests: []
+references:
+- name: fatima ezzahrae ELHAMMOUMI
+  reference: Ayoub is a great developer, i highly recommend him
+- name: Saad ALAOUI
+  reference: |-
+    Comment résumer Ayoub en un seul paragraphe ? Cela est tout simplement impossible. Car il sera insuffisant.
+    Dans ma vie professionnelle j’ai connu des développeurs, des Leeds tech, des chefs d’entreprise et des experts IT, mais Ayoub est d’une autre planète ! je n’ai jamais vu une personne aussi passionnée par les nouvelles technologies et le développement informatique avec autant de capacités, il est rigoureux, intelligent, super autonome avec une très bonne vision et plus, se lancer dans la programmation à l’âge de 14 ans tout seul avec ses propres moyens sans encadrement académique formel et travailler sur des projets informatiques personnelles et professionnelles et les réaliser avec succès dès l’âge de 19 ans, occuper le poste du Lead-Developer à l’âge de 23 ans dans société de Data-Intelligence et gérer sa propre entreprise en même temps montre à quel point ce jeune homme est extraordinaire. Pour moi Ayoub est un génie, et en vrai cela ne m'étonne pas car je sais de quoi il est capable et à quel point il est surprennant. Ayoub aujourd'hui est l'exemple du leader qu'on aime avoir dans son équipe, je te souhaite une bonne continuation mon ami.
+- name: oussama zouaki
+  reference: Ayoub is a motivated, persevering lead developer, i had the pleasure
+    of working with Ayoub as an intern at CRAWLO. His performance was an eye opening
+    experience for me, He is ready to deal with difficult situations and solve the
+    problems on time,  i thoroughly appreciated working with him at CRAWLO
+- name: Youssef ROUDANI
+  reference: "He does not only make great ideas comes to life, he makes coding and
+    programming sounds and feels like a painting or like a melody. Ayoub is one of
+    few people who can make you enjoying watching him doing his things \U0001F44D\U0001F3FB\U0001F44D\U0001F3FB"
+- name: Achraf OUFQUIR
+  reference: 'Ayoub est une personne impliquée, intelligente qui prend  toutes les
+    taches avec dévouement, il est toujours à l''écoute pour débloquer et proposer
+    de nouvelles solutions  aux autres membres d''équipes. '
+- name: Rachid BARRIMA
+  reference: "trusted solutions...\nI highly recommend Ayoub for all software projects. "
+- name: Bilal El-hajjaji
+  reference: 'An ambitious free mind with creative ideas for complicated problems.
+    Always on the latest updates. '
+projects:
+- name: reqas.io
+  startDate: '2019-03-31'
+  summary: a communication Gateway to integrate with apps, to manage and send SMS,
+    Notifications and deliver messages via Messenger and WhatsApp
+  url: https://reqas.io
+- name: sQweelty
+  startDate: '2017-04-30'
+  summary: an online management platform for private schools
+  url: https://sqweelty.com
+- name: ebotiqa
+  startDate: '2016-10-31'
+  summary: a platform for online sellers to manage customers, products and orders,
+    linked with Facebook, Instagram and Google Shopping
+  url: https://ebotiqa.com
+- name: brasal cosmetics (brasal.ma)
+  startDate: '2016-01-31'
+  summary: |-
+    We developed an E-Commerce website for Brasal Company, to sell cosmetics products.
+    This Website is developed from scratch using OudyPlat.
+  url: https://www.brasal.ma/
+- name: WeTud
+  startDate: '2015-01-31'
+  summary: |-
+    A Social Network, Students & Teachers can create their profile and benefit from services such as:
+    • WeTud Docs: users can share and find educational files.
+    • WeTud Support: users can ask for help and support each other.
+    • WeTud Teachers: teachers can create their profile, communicate with students.
+    • WeTud Apps: useful apps for users.
+    There’s also some services for Webmasters (WeTud Data).
+  url: https://www.wetud.com/
+- name: BACDoc
+  startDate: '2013-08-31'
+  summary: |-
+    A Social Cloud for Students (High school), this website allows users to find and share educational files (exercises, courses in different formats Images, PDF, Word, PowerPoint and Excel). This website built to be accessible via every device has a web browser (responsive).
+    The website allows registered users to see only documents that are opportune for them after specifying their level and sector.
+  url: https://www.bacdoc.ma/
+- name: OudyPlat (My own PHP Framwork)
+  startDate: '2013-02-28'
+  summary: |-
+    A flexible PHP/MySQL Framwork to build Web Sites/Applications, Apps Servers.
+    This framework is designed to render services with performed and fast functionalities.
+    Using this platform I developed 5 websites, 2 Web Applications.
+  url: https://github.com/Oudmane/OudyPlat
+- name: Liv360.com Mobile App
+  startDate: '2015-10-31'
+  summary:
+  url: https://www.liv360.com/
+  endDate: '2015-12-31'
+- name: BAC TV
+  startDate: '2012-08-31'
+  summary: a Video Platform for Educational videos for High school students
+  url: http://www.bactv.ma/
+  endDate: '2014-05-31'
+meta:
+  version: v1.0.0
+  canonical: https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json
