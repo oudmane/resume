@@ -22,6 +22,14 @@ basics:
     - network: UpWork
       username: oudmane
       url: https://www.upwork.com/freelancers/oudmane
+    - network: GitHub
+      username: oudmane
+      url: https://github.com/oudmane
+    - network: DEV Community
+      username: oudmane
+      url: https://dev.to/oudmane
+    - network: Stack Overflow
+      url: https://stackoverflow.com/users/4704727/oudmane
 
 work:
 - name: ReaLift
@@ -283,31 +291,6 @@ languages:
 - fluency: Native Speaker
   language: Tamazight
 interests: []
-references:
-- name: fatima ezzahrae ELHAMMOUMI
-  reference: Ayoub is a great developer, i highly recommend him
-- name: Saad ALAOUI
-  reference: |-
-    Comment résumer Ayoub en un seul paragraphe ? Cela est tout simplement impossible. Car il sera insuffisant.
-    Dans ma vie professionnelle j’ai connu des développeurs, des Leeds tech, des chefs d’entreprise et des experts IT, mais Ayoub est d’une autre planète ! je n’ai jamais vu une personne aussi passionnée par les nouvelles technologies et le développement informatique avec autant de capacités, il est rigoureux, intelligent, super autonome avec une très bonne vision et plus, se lancer dans la programmation à l’âge de 14 ans tout seul avec ses propres moyens sans encadrement académique formel et travailler sur des projets informatiques personnelles et professionnelles et les réaliser avec succès dès l’âge de 19 ans, occuper le poste du Lead-Developer à l’âge de 23 ans dans société de Data-Intelligence et gérer sa propre entreprise en même temps montre à quel point ce jeune homme est extraordinaire. Pour moi Ayoub est un génie, et en vrai cela ne m'étonne pas car je sais de quoi il est capable et à quel point il est surprennant. Ayoub aujourd'hui est l'exemple du leader qu'on aime avoir dans son équipe, je te souhaite une bonne continuation mon ami.
-- name: oussama zouaki
-  reference: Ayoub is a motivated, persevering lead developer, i had the pleasure
-    of working with Ayoub as an intern at CRAWLO. His performance was an eye opening
-    experience for me, He is ready to deal with difficult situations and solve the
-    problems on time,  i thoroughly appreciated working with him at CRAWLO
-- name: Youssef ROUDANI
-  reference: "He does not only make great ideas comes to life, he makes coding and
-    programming sounds and feels like a painting or like a melody. Ayoub is one of
-    few people who can make you enjoying watching him doing his things \U0001F44D\U0001F3FB\U0001F44D\U0001F3FB"
-- name: Achraf OUFQUIR
-  reference: 'Ayoub est une personne impliquée, intelligente qui prend  toutes les
-    taches avec dévouement, il est toujours à l''écoute pour débloquer et proposer
-    de nouvelles solutions  aux autres membres d''équipes. '
-- name: Rachid BARRIMA
-  reference: "trusted solutions...\nI highly recommend Ayoub for all software projects. "
-- name: Bilal El-hajjaji
-  reference: 'An ambitious free mind with creative ideas for complicated problems.
-    Always on the latest updates. '
 projects:
 - name: reqas.io
   startDate: '2019-03-31'
