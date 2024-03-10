@@ -13,7 +13,7 @@ basics:
   profiles:
     - network: LinkedIn
       username: oudmane
-      url: https://www.linkedin.com/in/oudmane/
+      url: https://www.linkedin.com/in/oudmane
     - network: Twitter
       username: oudmane
       url: https://twitter.com/oudmane
@@ -31,12 +31,12 @@ basics:
 work:
 - name: ReaLift
   position: Senior Software Engineer and Architect
-  startDate: '2022-01-31'
+  startDate: 2022-01-31
   highlights: []
   url: https://www.linkedin.com/company/82223528
 - name: OudyWorks
   position: Software Engineer
-  startDate: '2016-01-31'
+  startDate: 2016-01-31
   highlights: []
   summary: |-
     As a Freelancer, I worked with many companies on various projects:
@@ -50,8 +50,8 @@ work:
   location: Meknès Prefecture, Morocco
 - name: Crawlo.com Data Intelligence for Ecommerce
   position: Lead Developer
-  startDate: '2016-11-30'
-  endDate: '2019-12-31'
+  startDate: 2016-11-30
+  endDate: 2019-12-31
   highlights: []
   summary: Working remotely, I'm challenged to think out of the box, work and lead
     a team of developers working on various projects in a big data based software
@@ -61,8 +61,8 @@ work:
   location: Spain
 - name: AppSoft LAB
   position: Developer
-  startDate: '2015-10-31'
-  endDate: '2015-11-30'
+  startDate: 2015-10-31
+  endDate: 2015-11-30
   highlights: []
   summary: I worked on a Project developed by the company, Liv360.com, my job was
     to design and develop the iOS Mobile App for this website, I also worked on the
@@ -71,8 +71,8 @@ work:
   location: Meknes
 - name: Smart-Educa
   position: Web Developer
-  startDate: '2012-08-31'
-  endDate: '2014-05-31'
+  startDate: 2012-08-31
+  endDate: 2014-05-31
   highlights: []
   summary: |-
     I worked on building a website to stream educational videos for high school students organized by subjects and lessons.
@@ -83,46 +83,46 @@ education:
 - institution: Specialized Institute Of Applied Technology NTIC
   area: IT Development
   studyType: Diploma
-  startDate: '2013-08-31'
-  endDate: '2015-07-31'
+  startDate: 2013-08-31
+  endDate: 2015-07-31
   courses: []
 awards: []
 certificates:
 - name: Up and Running with ECMAScript 6
   issuer: Lynda.com
-  startDate: '2016-08-31'
+  startDate: 2016-08-31
   url: https://www.lynda.com/ViewCertificate/0F05541BA90845969475CB248D2CC6AB?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
 - name: 'Learn Webpack: The Basics'
   issuer: Lynda.com
-  startDate: '2016-08-31'
+  startDate: 2016-08-31
   url: https://www.lynda.com/ViewCertificate/2188253C4E3748D69C8570F3F9B51F40?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
 - name: 'Android Development Essential Training: Create Your First App'
   issuer: Lynda.com
-  startDate: '2019-03-31'
+  startDate: 2019-03-31
   url: http://www.lynda.com/Android-tutorials/Android-Development-Essential-Training-Create-Your-First-App/751324-2.html
 - name: Learning ECMAScript 6
   issuer: Lynda.com
-  startDate: '2019-11-30'
+  startDate: 2019-11-30
   url: http://www.lynda.com/JavaScript-tutorials/Learning-ECMAScript-6/424003-2.html
 - name: TypeScript Essential Training
   issuer: LinkedIn
-  startDate: '2019-12-31'
+  startDate: 2019-12-31
   url: https://www.linkedin.com/learning/certificates/b655d74e3ad619e14e14d623eccb5960e421c1ea13e9cdd83c6c6450e4081d9d?trk=backfilled_certificate
 - name: Test Automation Foundations
   issuer: LinkedIn
-  startDate: '2019-12-31'
+  startDate: 2019-12-31
   url: https://www.linkedin.com/learning/certificates/0070a9a1b02b3db52d9e8ca675aa382bb12796f57509aeb89141246c6fb54bc7?trk=backfilled_certificate
 - name: Selenium Essential Training
   issuer: LinkedIn
-  startDate: '2019-12-31'
+  startDate: 2019-12-31
   url: https://www.linkedin.com/learning/certificates/f4bb9a4ac0d4ce9af5655a655b0f4ace6350b621455cc90c62ddebcc9089165a?trk=backfilled_certificate
 - name: 'AWS and React: Creating Full-Stack Apps'
   issuer: LinkedIn
-  startDate: '2022-02-28'
+  startDate: 2022-02-28
   url: https://www.linkedin.com/learning/certificates/f6ba1a1fe1032a05a08f2fa76edfe27513b1494f7cc6833d1e73f07c69bcf0c5
 - name: Learning AWS CloudFormation
   issuer: LinkedIn
-  startDate: '2022-05-31'
+  startDate: 2022-05-31
   url: https://www.linkedin.com/learning/certificates/06b0c706d55fac0c8bcada467f1ea1c0dcacfd679d2381068a35c1d97231f6d8
 publications:
   - name: Multiple databases in Big Data projects
@@ -132,152 +132,54 @@ publications:
     summary: I worked in multiple NodeJS projects that had to be connected to multiple databases and softwares at the same time. Every time I start a new project, I first need to write the code that configures clients of databases (MongoDB, ElasticSearch, Redis...), make sure it connected successfully and then move on to what I want to do.
 skills:
 - name: Facebook API
-  level: ''
-  keywords: []
 - name: Node.js
-  level: ''
-  keywords: []
 - name: GraphQL
-  level: ''
-  keywords: []
 - name: Vue.js
-  level: ''
-  keywords: []
 - name: CSS
-  level: ''
-  keywords: []
 - name: JavaScript
-  level: ''
-  keywords: []
 - name: HTML
-  level: ''
-  keywords: []
 - name: Java
-  level: ''
-  keywords: []
 - name: Mentoring
-  level: ''
-  keywords: []
 - name: Web Services
-  level: ''
-  keywords: []
 - name: Software Development
-  level: ''
-  keywords: []
 - name: Github
-  level: ''
-  keywords: []
 - name: TypeScript
-  level: ''
-  keywords: []
 - name: API
-  level: ''
-  keywords: []
 - name: Cascading Style Sheets (CSS)
-  level: ''
-  keywords: []
 - name: React.js
-  level: ''
-  keywords: []
 - name: Git
-  level: ''
-  keywords: []
 - name: Front-end Development
-  level: ''
-  keywords: []
 - name: Amazon Web Services (AWS)
-  level: ''
-  keywords: []
 - name: Redis
-  level: ''
-  keywords: []
 - name: SQL
-  level: ''
-  keywords: []
 - name: Web Development
-  level: ''
-  keywords: []
 - name: npm
-  level: ''
-  keywords: []
 - name: Web Crawling
-  level: ''
-  keywords: []
 - name: Web Design
-  level: ''
-  keywords: []
 - name: MongoDB
-  level: ''
-  keywords: []
 - name: 'Object-Oriented Programming '
-  level: ''
-  keywords: []
 - name: NoSQL
-  level: ''
-  keywords: []
 - name: LESS
-  level: ''
-  keywords: []
 - name: RabbitMQ
-  level: ''
-  keywords: []
 - name: Full-Stack Development
-  level: ''
-  keywords: []
 - name: XML
-  level: ''
-  keywords: []
 - name: HTML5
-  level: ''
-  keywords: []
 - name: Android
-  level: ''
-  keywords: []
 - name: WebSockets
-  level: ''
-  keywords: []
 - name: MySQL
-  level: ''
-  keywords: []
 - name: Webmaster Services
-  level: ''
-  keywords: []
 - name: Webpack
-  level: ''
-  keywords: []
 - name: PHP
-  level: ''
-  keywords: []
 - name: Databases
-  level: ''
-  keywords: []
 - name: Linux
-  level: ''
-  keywords: []
 - name: Microsoft Azure
-  level: ''
-  keywords: []
 - name: ElasticSearch
-  level: ''
-  keywords: []
 - name: Web Applications
-  level: ''
-  keywords: []
 - name: AWS CloudFormation
-  level: ''
-  keywords: []
 - name: SEO
-  level: ''
-  keywords: []
 - name: Objective-C
-  level: ''
-  keywords: []
 - name: jQuery
-  level: ''
-  keywords: []
 - name: AngularJS
-  level: ''
-  keywords: []
 languages:
 - fluency: Native Speaker
   language: Tamazight
@@ -290,58 +192,58 @@ languages:
 interests: []
 projects:
 - name: reqas.io
-  startDate: '2019-03-31'
+  startDate: 2019-03-31
   summary: a communication Gateway to integrate with apps, to manage and send SMS,
     Notifications and deliver messages via Messenger and WhatsApp
   url: https://reqas.io
 - name: sQweelty
-  startDate: '2017-04-30'
+  startDate: 2017-04-30
   summary: an online management platform for private schools
   url: https://sqweelty.com
 - name: ebotiqa
-  startDate: '2016-10-31'
+  startDate: 2016-10-31
   summary: a platform for online sellers to manage customers, products and orders,
     linked with Facebook, Instagram and Google Shopping
   url: https://ebotiqa.com
 - name: brasal cosmetics (brasal.ma)
-  startDate: '2016-01-31'
+  startDate: 2016-01-31
   summary: |-
     We developed an E-Commerce website for Brasal Company, to sell cosmetics products.
     This Website is developed from scratch using OudyPlat.
-  url: https://www.brasal.ma/
+  url: https://www.brasal.ma
 - name: WeTud
-  startDate: '2015-01-31'
+  startDate: 2015-01-31
   summary: |-
     A Social Network, Students & Teachers can create their profile and benefit from services such as:
     • WeTud Docs: users can share and find educational files.
     • WeTud Support: users can ask for help and support each other.
     • WeTud Teachers: teachers can create their profile, communicate with students.
     • WeTud Apps: useful apps for users.
-    There’s also some services for Webmasters (WeTud Data).
-  url: https://www.wetud.com/
+    There's also some services for Webmasters (WeTud Data).
+  url: https://www.wetud.com
 - name: BACDoc
-  startDate: '2013-08-31'
+  startDate: 2013-08-31
   summary: |-
     A Social Cloud for Students (High school), this website allows users to find and share educational files (exercises, courses in different formats Images, PDF, Word, PowerPoint and Excel). This website built to be accessible via every device has a web browser (responsive).
     The website allows registered users to see only documents that are opportune for them after specifying their level and sector.
-  url: https://www.bacdoc.ma/
+  url: https://www.bacdoc.ma
 - name: OudyPlat (My own PHP Framwork)
-  startDate: '2013-02-28'
+  startDate: 2013-02-28
   summary: |-
     A flexible PHP/MySQL Framwork to build Web Sites/Applications, Apps Servers.
     This framework is designed to render services with performed and fast functionalities.
     Using this platform I developed 5 websites, 2 Web Applications.
   url: https://github.com/Oudmane/OudyPlat
 - name: Liv360.com Mobile App
-  startDate: '2015-10-31'
+  startDate: 2015-10-31
   summary:
-  url: https://www.liv360.com/
-  endDate: '2015-12-31'
+  url: https://www.liv360.com
+  endDate: 2015-12-31
 - name: BAC TV
-  startDate: '2012-08-31'
+  startDate: 2012-08-31
   summary: a Video Platform for Educational videos for High school students
-  url: http://www.bactv.ma/
-  endDate: '2014-05-31'
+  url: http://www.bactv.ma
+  endDate: 2014-05-31
 meta:
   version: v1.0.0
   canonical: https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json
