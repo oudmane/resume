@@ -32,12 +32,10 @@ work:
 - name: ReaLift
   position: Senior Software Engineer and Architect
   startDate: 2022-01-31
-  highlights: []
   url: https://www.linkedin.com/company/82223528
 - name: OudyWorks
   position: Software Engineer
   startDate: 2016-01-31
-  highlights: []
   summary: |-
     As a Freelancer, I worked with many companies on various projects:
     - brasal cosmetics (https://brasal.ma): an online store built from scratch with custom features requested by the client.
@@ -52,7 +50,6 @@ work:
   position: Lead Developer
   startDate: 2016-11-30
   endDate: 2019-12-31
-  highlights: []
   summary: Working remotely, I'm challenged to think out of the box, work and lead
     a team of developers working on various projects in a big data based software
     that helps e-commerce websites to increase their sales by monitoring internal
@@ -63,7 +60,6 @@ work:
   position: Developer
   startDate: 2015-10-31
   endDate: 2015-11-30
-  highlights: []
   summary: I worked on a Project developed by the company, Liv360.com, my job was
     to design and develop the iOS Mobile App for this website, I also worked on the
     API for this Mobile App and done some bug fixing and updates to the website.
@@ -73,63 +69,16 @@ work:
   position: Web Developer
   startDate: 2012-08-31
   endDate: 2014-05-31
-  highlights: []
   summary: |-
     I worked on building a website to stream educational videos for high school students organized by subjects and lessons.
     Users (Students and Teachers) were allowed to login on the website and create their profiles and ask questions and reply to each other.
   location: Casablanca
-volunteer: []
 education:
 - institution: Specialized Institute Of Applied Technology NTIC
   area: IT Development
   studyType: Diploma
   startDate: 2013-08-31
   endDate: 2015-07-31
-  courses: []
-awards: []
-certificates:
-- name: Up and Running with ECMAScript 6
-  issuer: Lynda.com
-  startDate: 2016-08-31
-  url: https://www.lynda.com/ViewCertificate/0F05541BA90845969475CB248D2CC6AB?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
-- name: 'Learn Webpack: The Basics'
-  issuer: Lynda.com
-  startDate: 2016-08-31
-  url: https://www.lynda.com/ViewCertificate/2188253C4E3748D69C8570F3F9B51F40?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
-- name: 'Android Development Essential Training: Create Your First App'
-  issuer: Lynda.com
-  startDate: 2019-03-31
-  url: http://www.lynda.com/Android-tutorials/Android-Development-Essential-Training-Create-Your-First-App/751324-2.html
-- name: Learning ECMAScript 6
-  issuer: Lynda.com
-  startDate: 2019-11-30
-  url: http://www.lynda.com/JavaScript-tutorials/Learning-ECMAScript-6/424003-2.html
-- name: TypeScript Essential Training
-  issuer: LinkedIn
-  startDate: 2019-12-31
-  url: https://www.linkedin.com/learning/certificates/b655d74e3ad619e14e14d623eccb5960e421c1ea13e9cdd83c6c6450e4081d9d?trk=backfilled_certificate
-- name: Test Automation Foundations
-  issuer: LinkedIn
-  startDate: 2019-12-31
-  url: https://www.linkedin.com/learning/certificates/0070a9a1b02b3db52d9e8ca675aa382bb12796f57509aeb89141246c6fb54bc7?trk=backfilled_certificate
-- name: Selenium Essential Training
-  issuer: LinkedIn
-  startDate: 2019-12-31
-  url: https://www.linkedin.com/learning/certificates/f4bb9a4ac0d4ce9af5655a655b0f4ace6350b621455cc90c62ddebcc9089165a?trk=backfilled_certificate
-- name: 'AWS and React: Creating Full-Stack Apps'
-  issuer: LinkedIn
-  startDate: 2022-02-28
-  url: https://www.linkedin.com/learning/certificates/f6ba1a1fe1032a05a08f2fa76edfe27513b1494f7cc6833d1e73f07c69bcf0c5
-- name: Learning AWS CloudFormation
-  issuer: LinkedIn
-  startDate: 2022-05-31
-  url: https://www.linkedin.com/learning/certificates/06b0c706d55fac0c8bcada467f1ea1c0dcacfd679d2381068a35c1d97231f6d8
-publications:
-  - name: Multiple databases in Big Data projects
-    publisher: DEV Community
-    releaseDate: "2019-07-17"
-    url: https://oudmane.me/blog/multiple-databases-in-bigdata-projects-52n4.html
-    summary: I worked in multiple NodeJS projects that had to be connected to multiple databases and softwares at the same time. Every time I start a new project, I first need to write the code that configures clients of databases (MongoDB, ElasticSearch, Redis...), make sure it connected successfully and then move on to what I want to do.
 skills:
 - name: Facebook API
 - name: Node.js
@@ -157,7 +106,7 @@ skills:
 - name: Web Crawling
 - name: Web Design
 - name: MongoDB
-- name: 'Object-Oriented Programming '
+- name: Object-Oriented Programming
 - name: NoSQL
 - name: LESS
 - name: RabbitMQ
