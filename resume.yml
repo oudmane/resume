@@ -2,23 +2,21 @@ basics:
   name: Ayoub Oudmane
   label: I'm a Software Engineer specializing in building exceptional, high-quality
     solutions for businesses.
-  image: ''
+  image: https://oudmane.me/ayoub_oudmane.jpg
   email: ayoub@oudmane.me
-  phone: ''
-  url: https://www.upwork.com/freelancers/oudmane/
+  url: https://oudmane.me
   summary: |-
-    I'm just a !normal Software Engineer, I'm always curious about how things work and why it works. I've being coding since I was 15, I got my first job at 19, When I'm free, I work on side projects or learn new skills, When my brain is like: "brah, can I have a break", I watch Movies/TV Shows, or play games.
-    I'm Something of a Digital Nomad Myself.
+    Experienced Software Engineer with 10+ years of expertise in diverse projects, including mobile apps, websites, and big-data platforms. Passionate about continuous learning and embracing emerging technologies. Strong problem-solving skills and adaptability to new environments.
   location:
-    countryCode: US
-    address: Hungary
+    countryCode: HU
+    city: Budapest
   profiles:
     - network: LinkedIn
       username: oudmane
       url: https://www.linkedin.com/in/oudmane/
     - network: Twitter
-      username: Oudmane
-      url: https://twitter.com/Oudmane
+      username: oudmane
+      url: https://twitter.com/oudmane
     - network: UpWork
       username: oudmane
       url: https://www.upwork.com/freelancers/oudmane
@@ -30,7 +28,6 @@ basics:
       url: https://dev.to/oudmane
     - network: Stack Overflow
       url: https://stackoverflow.com/users/4704727/oudmane
-
 work:
 - name: ReaLift
   position: Senior Software Engineer and Architect
@@ -283,13 +280,13 @@ skills:
   keywords: []
 languages:
 - fluency: Native Speaker
+  language: Tamazight
+- fluency: Native Speaker
   language: Arabic
 - fluency: Full Professional
   language: English
 - fluency: Limited Working
   language: French
-- fluency: Native Speaker
-  language: Tamazight
 interests: []
 projects:
 - name: reqas.io
