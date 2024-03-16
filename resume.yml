@@ -1,19 +1,21 @@
 basics:
   name: Ayoub Oudmane
-  label: I'm a Software Engineer specializing in building exceptional, high-quality
+  label:
+    I'm a Software Engineer specializing in building exceptional, high-quality
     solutions for businesses.
   image: https://oudmane.me/ayoub_oudmane.jpg
   email: ayoub@oudmane.me
   url: https://oudmane.me
   summary: |-
-    Experienced Software Engineer with 10+ years of expertise in diverse projects, including mobile apps, websites, and big-data platforms. Passionate about continuous learning and embracing emerging technologies. Strong problem-solving skills and adaptability to new environments.
+    Experienced Software Engineer with 10+ years of expertise in diverse projects, including mobile apps, websites, and big-data platforms.
+    Passionate about continuous learning and embracing emerging technologies. Strong problem-solving skills and adaptability to new environments.
   location:
     countryCode: HU
     city: Budapest
   profiles:
     - network: LinkedIn
       username: oudmane
-      url: https://www.linkedin.com/in/oudmane
+      linkedInUrl: https://www.linkedin.com/in/oudmane
     - network: Twitter
       username: oudmane
       url: https://twitter.com/oudmane
@@ -29,170 +31,186 @@ basics:
     - network: Stack Overflow
       url: https://stackoverflow.com/users/4704727/oudmane
 work:
-- name: ReaLift
-  position: Senior Software Engineer and Architect
-  startDate: 2022-01-31
-  url: https://www.linkedin.com/company/82223528
-- name: OudyWorks
-  position: Software Engineer
-  startDate: 2016-01-31
-  summary: |-
-    As a Freelancer, I worked with many companies on various projects:
-    - brasal cosmetics (https://brasal.ma): an online store built from scratch with custom features requested by the client.
-    - ebotiqa: a platform for online sellers to manage customers, products and orders, linked with Facebook, Instagram and Google Shopping.
-    - sQweelty: an online management platform for private schools
-    - reqas.io : a communication Gateway to integrate with apps, to manage and send SMS, Notifications and deliver messages via Messenger and WhatsApp.
-    I've also worked with various clients on UpWork where I'm a Top Rated Plus (top 3% of performers on Upwork.) with 100% Job Success
-    https://www.upwork.com/freelancers/oudmane
-  url: https://www.linkedin.com/company/10951158
-  location: Meknès Prefecture, Morocco
-- name: Crawlo.com Data Intelligence for Ecommerce
-  position: Lead Developer
-  startDate: 2016-11-30
-  endDate: 2019-12-31
-  summary: Working remotely, I'm challenged to think out of the box, work and lead
-    a team of developers working on various projects in a big data based software
-    that helps e-commerce websites to increase their sales by monitoring internal
-    and external factors
-  url: https://www.linkedin.com/company/11053473
-  location: Spain
-- name: AppSoft LAB
-  position: Developer
-  startDate: 2015-10-31
-  endDate: 2015-11-30
-  summary: I worked on a Project developed by the company, Liv360.com, my job was
-    to design and develop the iOS Mobile App for this website, I also worked on the
-    API for this Mobile App and done some bug fixing and updates to the website.
-  url: https://www.linkedin.com/company/2786173
-  location: Meknes
-- name: Smart-Educa
-  position: Web Developer
-  startDate: 2012-08-31
-  endDate: 2014-05-31
-  summary: |-
-    I worked on building a website to stream educational videos for high school students organized by subjects and lessons.
-    Users (Students and Teachers) were allowed to login on the website and create their profiles and ask questions and reply to each other.
-  location: Casablanca
+  - name: ReaLift
+    position: Senior Software Engineer and Architect
+    startDate: 2022-01-31
+    url: https://www.getrealift.com
+    linkedInUrl: https://www.linkedin.com/company/82223528
+  - name: OudyWorks
+    position: Software Engineer
+    startDate: 2016-01-31
+    summary: |-
+      As a Freelancer/Contractor, I worked with many companies on various projects:
+      - brasal cosmetics (https://brasal.ma): an online store built from scratch with custom features requested by the client.
+      - ebotiqa: a platform for online sellers to manage customers, products and orders, linked with Facebook, Instagram and Google Shopping.
+      - sQweelty: an online management platform for private schools
+      - reqas.io : a communication Gateway to integrate with apps, to manage and send SMS, Notifications and deliver messages via Messenger and WhatsApp.
+      I've also worked with various clients on UpWork where I'm a Top Rated Plus (top 3% of performers on Upwork.) with 100% Job Success
+      https://www.upwork.com/freelancers/oudmane
+    url: https://oudy.works
+    linkedInUrl: https://www.linkedin.com/company/10951158
+    location: Meknès Prefecture, Morocco
+  - name: Crawlo.com Data Intelligence for Ecommerce
+    position: Lead Developer
+    startDate: 2016-11-30
+    endDate: 2019-12-31
+    summary: |-
+      Working remotely, I'm challenged to think out of the box, work and lead
+      a team of developers working on various projects in a big data based software
+      that helps e-commerce websites to increase their sales by monitoring internal
+      and external factors.
+    url: https://www.crawlo.com/
+    linkedInUrl: https://www.linkedin.com/company/11053473
+    location: Spain
+  - name: AppSoft LAB
+    position: Developer
+    startDate: 2015-10-31
+    endDate: 2015-11-30
+    summary: |-
+      I worked on a Project developed by the company, Liv360.com, my job was
+      to design and develop the iOS Mobile App for this website, I also worked on the
+      API for this Mobile App and done some bug fixing and updates to the website.
+    linkedInUrl: https://www.linkedin.com/company/2786173
+    location: Meknes
+  - name: Smart-Educa
+    position: Web Developer
+    startDate: 2012-08-31
+    endDate: 2014-05-31
+    summary: |-
+      I worked on building a website to stream educational videos for high school students organized by subjects and lessons.
+      Users (Students and Teachers) were allowed to login on the website and create their profiles and ask questions and reply to each other.
+    location: Casablanca
 education:
-- institution: Specialized Institute Of Applied Technology NTIC
-  area: IT Development
-  studyType: Diploma
-  startDate: 2013-08-31
-  endDate: 2015-07-31
+  - institution: Specialized Institute Of Applied Technology NTIC
+    area: IT Development
+    studyType: Diploma
+    startDate: 2013-08-31
+    endDate: 2015-07-31
 skills:
-- name: Facebook API
-- name: Node.js
-- name: GraphQL
-- name: Vue.js
-- name: CSS
-- name: JavaScript
-- name: HTML
-- name: Java
-- name: Mentoring
-- name: Web Services
-- name: Software Development
-- name: Github
-- name: TypeScript
-- name: API
-- name: Cascading Style Sheets (CSS)
-- name: React.js
-- name: Git
-- name: Front-end Development
-- name: Amazon Web Services (AWS)
-- name: Redis
-- name: SQL
-- name: Web Development
-- name: npm
-- name: Web Crawling
-- name: Web Design
-- name: MongoDB
-- name: Object-Oriented Programming
-- name: NoSQL
-- name: LESS
-- name: RabbitMQ
-- name: Full-Stack Development
-- name: XML
-- name: HTML5
-- name: Android
-- name: WebSockets
-- name: MySQL
-- name: Webmaster Services
-- name: Webpack
-- name: PHP
-- name: Databases
-- name: Linux
-- name: Microsoft Azure
-- name: ElasticSearch
-- name: Web Applications
-- name: AWS CloudFormation
-- name: SEO
-- name: Objective-C
-- name: jQuery
-- name: AngularJS
+  - name: Facebook API
+  - name: Node.js
+  - name: GraphQL
+  - name: Vue.js
+  - name: CSS
+  - name: JavaScript
+  - name: HTML
+  - name: Java
+  - name: Mentoring
+  - name: Web Services
+  - name: Software Development
+  - name: Github
+  - name: TypeScript
+  - name: API
+  - name: Cascading Style Sheets (CSS)
+  - name: React.js
+  - name: Git
+  - name: Front-end Development
+  - name: Amazon Web Services (AWS)
+  - name: Redis
+  - name: SQL
+  - name: Web Development
+  - name: npm
+  - name: Web Crawling
+  - name: Web Design
+  - name: MongoDB
+  - name: Object-Oriented Programming
+  - name: NoSQL
+  - name: LESS
+  - name: RabbitMQ
+  - name: Full-Stack Development
+  - name: XML
+  - name: HTML5
+  - name: Android
+  - name: WebSockets
+  - name: MySQL
+  - name: Webmaster Services
+  - name: Webpack
+  - name: PHP
+  - name: Databases
+  - name: Linux
+  - name: Microsoft Azure
+  - name: ElasticSearch
+  - name: Web Applications
+  - name: AWS CloudFormation
+  - name: SEO
+  - name: Objective-C
+  - name: jQuery
+  - name: AngularJS
 languages:
-- fluency: Native Speaker
-  language: Tamazight
-- fluency: Native Speaker
-  language: Arabic
-- fluency: Full Professional
-  language: English
-- fluency: Limited Working
-  language: French
+  - fluency: Native Speaker
+    language: Tamazight
+  - fluency: Native Speaker
+    language: Arabic
+  - fluency: Full Professional
+    language: English
+  - fluency: Limited Working
+    language: French
 interests: []
 projects:
-- name: reqas.io
-  startDate: 2019-03-31
-  summary: a communication Gateway to integrate with apps, to manage and send SMS,
-    Notifications and deliver messages via Messenger and WhatsApp
-  url: https://reqas.io
-- name: sQweelty
-  startDate: 2017-04-30
-  summary: an online management platform for private schools
-  url: https://sqweelty.com
-- name: ebotiqa
-  startDate: 2016-10-31
-  summary: a platform for online sellers to manage customers, products and orders,
-    linked with Facebook, Instagram and Google Shopping
-  url: https://ebotiqa.com
-- name: brasal cosmetics (brasal.ma)
-  startDate: 2016-01-31
-  summary: |-
-    We developed an E-Commerce website for Brasal Company, to sell cosmetics products.
-    This Website is developed from scratch using OudyPlat.
-  url: https://www.brasal.ma
-- name: WeTud
-  startDate: 2015-01-31
-  summary: |-
-    A Social Network, Students & Teachers can create their profile and benefit from services such as:
-    • WeTud Docs: users can share and find educational files.
-    • WeTud Support: users can ask for help and support each other.
-    • WeTud Teachers: teachers can create their profile, communicate with students.
-    • WeTud Apps: useful apps for users.
-    There's also some services for Webmasters (WeTud Data).
-  url: https://www.wetud.com
-- name: BACDoc
-  startDate: 2013-08-31
-  summary: |-
-    A Social Cloud for Students (High school), this website allows users to find and share educational files (exercises, courses in different formats Images, PDF, Word, PowerPoint and Excel). This website built to be accessible via every device has a web browser (responsive).
-    The website allows registered users to see only documents that are opportune for them after specifying their level and sector.
-  url: https://www.bacdoc.ma
-- name: OudyPlat (My own PHP Framwork)
-  startDate: 2013-02-28
-  summary: |-
-    A flexible PHP/MySQL Framwork to build Web Sites/Applications, Apps Servers.
-    This framework is designed to render services with performed and fast functionalities.
-    Using this platform I developed 5 websites, 2 Web Applications.
-  url: https://github.com/Oudmane/OudyPlat
-- name: Liv360.com Mobile App
-  startDate: 2015-10-31
-  summary:
-  url: https://www.liv360.com
-  endDate: 2015-12-31
-- name: BAC TV
-  startDate: 2012-08-31
-  summary: a Video Platform for Educational videos for High school students
-  url: http://www.bactv.ma
-  endDate: 2014-05-31
+  - name: reqas.io
+    startDate: 2019-03-31
+    summary:
+      a communication Gateway to integrate with apps, to manage and send SMS,
+      Notifications and deliver messages via Messenger and WhatsApp
+    url: https://reqas.io
+    entity: OudyWorks
+  - name: sQweelty
+    startDate: 2017-04-30
+    summary: an online management platform for private schools
+    url: https://sqweelty.com
+    entity: OudyWorks
+  - name: ebotiqa
+    startDate: 2016-10-31
+    summary:
+      a platform for online sellers to manage customers, products and orders,
+      linked with Facebook, Instagram and Google Shopping
+    url: https://ebotiqa.com
+    entity: OudyWorks
+  - name: brasal cosmetics (brasal.ma)
+    startDate: 2016-01-31
+    summary: |-
+      We developed an E-Commerce website for Brasal Company, to sell cosmetics products.
+      This Website is developed from scratch using OudyPlat.
+    url: https://www.brasal.ma
+    entity: OudyWorks
+  - name: WeTud
+    startDate: 2015-01-31
+    summary: |-
+      A Social Network, Students & Teachers can create their profile and benefit from services such as:
+      • WeTud Docs: users can share and find educational files.
+      • WeTud Support: users can ask for help and support each other.
+      • WeTud Teachers: teachers can create their profile, communicate with students.
+      • WeTud Apps: useful apps for users.
+      There's also some services for Webmasters (WeTud Data).
+    url: https://www.wetud.com
+    entity: OudyWorks
+  - name: BACDoc
+    startDate: 2013-08-31
+    summary: |-
+      A Social Cloud for Students (High school), this website allows users to find and share educational files (exercises, courses in different formats Images, PDF, Word, PowerPoint and Excel). This website built to be accessible via every device has a web browser (responsive).
+      The website allows registered users to see only documents that are opportune for them after specifying their level and sector.
+    url: https://www.bacdoc.ma
+    entity: OudyWorks
+  - name: OudyPlat (My own PHP Framwork)
+    startDate: 2013-02-28
+    summary: |-
+      A flexible PHP/MySQL Framwork to build Web Sites/Applications, Apps Servers.
+      This framework is designed to render services with performed and fast functionalities.
+      Using this platform I developed 5 websites, 2 Web Applications.
+    url: https://github.com/Oudmane/OudyPlat
+    entity: OudyWorks
+  - name: Liv360.com Mobile App
+    startDate: 2015-10-31
+    summary:
+    url: https://www.liv360.com
+    endDate: 2015-12-31
+    entity: AppSoft LAB
+  - name: BAC TV
+    startDate: 2012-08-31
+    summary: a Video Platform for Educational videos for High school students
+    url: http://www.bactv.ma
+    endDate: 2014-05-31
+    entity: Smart-Educa
 meta:
   version: v1.0.0
   canonical: https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json
