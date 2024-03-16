@@ -46,7 +46,7 @@ jobs:
       - name: Convert
         id: convert
         run: |
-          export JSON=$(yq -j eval resume.yml)
+          export JSON=$(yq -o json resume.yml)
           echo "JSON<<EOF" >> $GITHUB_ENV
           echo "$JSON" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
