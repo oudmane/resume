@@ -15,7 +15,7 @@ basics:
   profiles:
     - network: LinkedIn
       username: oudmane
-      linkedInUrl: https://www.linkedin.com/in/oudmane
+      url: https://www.linkedin.com/in/oudmane
     - network: Twitter
       username: oudmane
       url: https://twitter.com/oudmane
